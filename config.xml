@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mdav</name>
+	<displayName><![CDATA[Dave gateway]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Pay cashless trial]]></description>
+	<author><![CDATA[MANZI DAVID]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[SURE? TO UNINSTALL]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
